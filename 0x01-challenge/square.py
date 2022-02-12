@@ -7,7 +7,7 @@ Class Square
 
 class square():
     '''class square'''
-        def __init__(self, width=0, height=0):
+    def __init__(self, width=0, height=0):
         """Init method"""
         self.width = width
         self.height = height
